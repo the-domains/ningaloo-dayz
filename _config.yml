@@ -6,9 +6,9 @@ color:
   saturation: 0.37021210859529674
   rhythmicContrast: 0.9985206751152873
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
 name: Ningaloo Dayz
